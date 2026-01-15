@@ -17,9 +17,8 @@ I am a final-year Data Science and Analytics student at The Hong Kong Polytechni
 * **Data Consolidation:** Uses `pandas` to merge hundreds of individual reports into a single, cleaned master dataset.
 * **Automated Cleaning:** Handles column mismatches and deduplication automatically.
 
-[View Project Repository](link-to-your-repo)
+[View Project Repository](https://github.com/mcyrainer/excel-data-extractor)
 
 ---
 
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+

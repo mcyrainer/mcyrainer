@@ -1,24 +1,16 @@
-# Hi, I'm Rainer👋
+# Hi, I'm Rainer 👋
+Data Science & Analytics Graduate passionate about predictive modeling, machine learning pipelines, and full-stack mobile applications.
 
-### 🎓 Data Science Student @ HK PolyU
-I am a final-year Data Science and Analytics student at The Hong Kong Polytechnic University. I specialize in turning complex datasets into actionable business insights through machine learning and statistical modeling.
+- 🔭 Currently building: Cross-platform mobile apps & predictive analytics engines
+- 🎓 Education: B.Sc. in Data Science & Analytics (PolyU)
+- 📫 How to reach me: mcyrainer@gmail.com | [LinkedIn](https://linkedin.com)
 
-- 🔍 **Currently focusing on:** Advanced NLP and Big Data Analytics.
-- 🛠 **Technical Stack:** Python (Pandas, Scikit-learn, PyTorch), SQL, Tableau, R.
-- 💼 **Looking for:** Data Analyst / Software Engineering Internships.
+### 🛠 Tech Stack
+- **Languages:** Python, SQL, TypeScript, JavaScript
+- **Data & ML:** XGBoost, Random Forest, Time-Series Forecasting, Pandas, Scikit-Learn
+- **Mobile & Web:** React Native, Expo, Ionic, React.js, Supabase
+- **DevOps & Tools:** Git, Docker, PostgreSQL, Traefik, VS Code
 
----
-
-## 🚀 Featured Project: Multi-Source Excel Extraction Tool
-*I built this to automate the tedious process of manual data entry from fragmented business reports.*
-
-### What it does:
-* **Recursive Searching:** Scans deep directory trees to find specific `.xlsx` or `.csv` files using `os` and `glob`.
-* **Data Consolidation:** Uses `pandas` to merge hundreds of individual reports into a single, cleaned master dataset.
-* **Automated Cleaning:** Handles column mismatches and deduplication automatically.
-
-[View Project Repository](https://github.com/mcyrainer/excel-data-extractor)
-
----
-
-
+### 🚀 Featured Projects
+- **[Dengue Forecast Engine](./):** Non-linear machine learning framework for time-series forecasting.
+- **[ORAR Offline Media App](./):** Cross-platform mobile video indexer built with Ionic & IndexedDB.
